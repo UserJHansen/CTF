@@ -1,0 +1,11 @@
+@font-face {
+  font-family: Font;
+  src: url(font.otf);
+}
+
+html {
+  background-image: url(background.png);
+  color: greenyellow;
+  word-wrap: break-word;
+  font-family: Font;
+}
